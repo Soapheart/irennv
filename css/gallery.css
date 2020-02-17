@@ -20,13 +20,13 @@ body {
 	color: #fff;
 }
 .accordion ul li:nth-child(1) {
-	background-image: url("img/paris.jpg");
+	background-image: url("../img/paris.jpg");
 }
 .accordion ul li:nth-child(2) {
-	background-image: url("img/bali.jpg");
+	background-image: url("../img/bali.jpg");
 }
 .accordion ul li:nth-child(3) {
-	background-image: url("img/ny.jpg");
+	background-image: url("../img/ny.jpg");
 }
 .accordion ul li::before {
 	position: absolute;
