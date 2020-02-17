@@ -1,3 +1,4 @@
+
 h1{
     font-family: 'Lobster Two', cursive;
 }
@@ -16,25 +17,17 @@ p{
     text-align: center;
 }
 .footer a{
-    text-shadow: 1px 1px 20px;
+    color: black;
     position:inherit;
     top: 20%;
     transform: translate(0, -50%);
-    color: white;
     text-decoration: none;
 }
 .footer a:hover{
     color: #e84393;
+    text-shadow: 1px 1px 20px #e84393;
     text-decoration: none;
 }
-.inst{
-    background-color: #2d3436;
-}
-.phone{
-    background-color:#2d3436;
-}
-.mail{
-    background-color:#2d3436;
 }
 .footer div{
     height: inherit;
